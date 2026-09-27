@@ -1,0 +1,4 @@
+/* Focused mobile corrections kept separate from the core visual system. */
+.hero > div:first-child{min-width:0}.hero h1{overflow-wrap:anywhere}
+@media(max-width:360px){.hero{gap:10px}.hero h1{font-size:33px}.heritage-orbit{width:68px;height:68px;font-size:14px}.heritage-orbit:after{inset:9px}.heritage-orbit i{transform:scale(.75)}.hero p:not(.eyebrow){font-size:10px}.searchbox{padding-inline:10px}.searchbox kbd{display:none}}
+
